@@ -1,7 +1,6 @@
 Vue2.0仿饿了么webapp单页应用
 声明: 代码源于 黄毅老师在慕课网上的教学视频，我自己重现了vue2.0版本，喜欢的童鞋可以去支持老师的课程：http://coding.imooc.com/class/74.html
 演示地址：http://vuejssellapp.t.imooc.io/#!/
-演示.png
 
 ##依赖工具： - vue-cli - express - vue-resource - vue-router - vue-infinite-scroll - stylus - webpack
 ##安装： 1、安装node：http://nodejs.cn/download/ git：https://git-scm.com/downloads
